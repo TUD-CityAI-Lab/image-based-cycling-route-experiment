@@ -1,4 +1,4 @@
-# Image-based cycling route experiment
+# Image-based cycling route choice experiment
 
 This repository contains the code and supporting data for the paper:
 
